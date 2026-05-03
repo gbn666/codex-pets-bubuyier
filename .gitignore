@@ -1,0 +1,13 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary generation outputs
+tmp/
+*.log
+
+# Python/tool caches
+__pycache__/
+.pytest_cache/
+
